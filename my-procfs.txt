@@ -1,0 +1,8 @@
+1. /proc/version 4.18.16-300.fc29.x86_64
+2. /proc/cpuinfo intel core i7-8650u cores=1 cache=8192kB
+3. /proc/meminfo total memory=34359738367kB
+4. /proc/2167/status stack size=132kB
+5. /proc/loadavg load=0.00
+6. /proc/706/status involuntary context switches=1573
+7. /proc/uptime time =7851.30
+8. /proc/fb no framebuffers
